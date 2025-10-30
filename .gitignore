@@ -1,0 +1,42 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+data/processed/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Results and outputs
+*.tsv
+*.h5
+*.pickle
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
