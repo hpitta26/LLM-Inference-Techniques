@@ -32,7 +32,6 @@ Thumbs.db
 
 # Environment files
 .env
-*.env
 
 # Python package files
 *.egg
