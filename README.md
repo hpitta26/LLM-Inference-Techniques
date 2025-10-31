@@ -10,7 +10,7 @@ Currently Includes:
 
 ## ✨ Contributions ✨
 
-To refine old or add new techniques (please do contribute I am very interested in learning from more implementations or comments)
+To refine old or add new techniques (please do contribute I am very interested in learning more from implementations or comments)
 
 Feel free to change the repo structure if anything feels unintuitive, or other macro-level improvements. 
 
@@ -20,3 +20,5 @@ Steps:
 - Run notebooks you changed and clear noisy outputs before commit.
 - Use conventional commit messages where practical (feat, fix, docs, chore).
 - Open a PR with a brief description, screenshots (if visuals), steps to reproduce, and the paper you are referencing (if relevant).
+
+- You could also open an issue and let someone else pick it up.
