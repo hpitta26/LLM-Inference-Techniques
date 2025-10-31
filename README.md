@@ -21,4 +21,4 @@ Steps:
 - Use conventional commit messages where practical (feat, fix, docs, chore).
 - Open a PR with a brief description, screenshots (if visuals), steps to reproduce, and the paper you are referencing (if relevant).
 
-- You could also open an issue and let someone else pick it up.
+Or... You could also open an issue and let someone else pick it up.
